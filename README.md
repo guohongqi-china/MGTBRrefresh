@@ -8,7 +8,7 @@ Installation MGTBRrefresh
 3. Import \<MGTBRrefresh/MGTBRrefresh\>.
 
 
-Example
+Example 样式演示
 ======================
 ![image](https://github.com/guohongqi-china/MGTBRrefresh/blob/master/Untitled.gif)
 
