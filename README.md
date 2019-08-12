@@ -7,3 +7,7 @@ Installation MGTBRrefresh
 2. Run `pod install` or `pod update`.
 3. Import \<MGTBRrefresh/MGTBRrefresh\>.
 
+
+Example
+======================
+![image](https://github.com/guohongqi-china/MGTBRrefresh/blob/master/Untitled.gif)
